@@ -263,7 +263,7 @@
 			<dependency>
 				<groupId>org.hibernate</groupId>
 				<artifactId>hibernate-search-orm</artifactId>
-				<version>5.4.0.Final</version>
+				<version>5.11.10.Final</version>
 			</dependency>
 			<dependency>
 				<groupId>org.apache.lucene</groupId>
@@ -1055,7 +1055,7 @@
 		<openmrs.version>${project.version}</openmrs.version>
 
 		<springVersion>5.2.4.RELEASE</springVersion>
-		<hibernateVersion>5.0.0.Final</hibernateVersion>
+		<hibernateVersion>5.3.38.Final</hibernateVersion>
 		<slf4jVersion>1.7.28</slf4jVersion>
 		<log4jVersion>2.12.1</log4jVersion>
 		<customArgLineForTesting/>
